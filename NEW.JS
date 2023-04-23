@@ -21,43 +21,43 @@ function dicefate() {
 }
 function diceyboi1(number1) {
     if (number1 === 0) {
-        document.getElementsByClassName("img1")[0].src = "images/dice1.png";
+        document.getElementsByClassName("img1")[0].src = "dice1.png";
     }
     else if (number1 === 1) {
-        document.getElementsByClassName("img1")[0].src = "images/dice2.png";
+        document.getElementsByClassName("img1")[0].src = "dice2.png";
     }
     else if (number1 === 2) {
-        document.getElementsByClassName("img1")[0].src = "images/dice3.png";
+        document.getElementsByClassName("img1")[0].src = "dice3.png";
     }
     else if (number1 === 3) {
-        document.getElementsByClassName("img1")[0].src = "images/dice4.png";
+        document.getElementsByClassName("img1")[0].src = "dice4.png";
     }
     else if (number1 === 4) {
-        document.getElementsByClassName("img1")[0].src = "images/dice5.png";
+        document.getElementsByClassName("img1")[0].src = "dice5.png";
     }
     else if (number1 === 5) {
-        document.getElementsByClassName("img1")[0].src = "images/dice6.png";
+        document.getElementsByClassName("img1")[0].src = "dice6.png";
     }
     
 }
-function diceyboi2(number, irg) {
+function diceyboi2(number2) {
     if (number === 0) {
-        document.getElementsByClassName("img2")[0].src = "images/dice1.png";
+        document.getElementsByClassName("img2")[0].src = "dice1.png";
     }
     else if (number === 1) {
-        document.getElementsByClassName("img2")[0].src = "images/dice2.png";
+        document.getElementsByClassName("img2")[0].src = "dice2.png";
     }
     else if (number === 2) {
-        document.getElementsByClassName("img2")[0].src = "images/dice3.png";
+        document.getElementsByClassName("img2")[0].src = "dice3.png";
     }
     else if (number === 3) {
-        document.getElementsByClassName("img2")[0].src = "images/dice4.png";
+        document.getElementsByClassName("img2")[0].src = "dice4.png";
     }
     else if (number === 4) {
-        document.getElementsByClassName("img2")[0].src= "images/dice5.png";
+        document.getElementsByClassName("img2")[0].src= "dice5.png";
     }
     else if (number === 5) {
-        document.getElementsByClassName("img2")[0].src = "images/dice6.png";
+        document.getElementsByClassName("img2")[0].src = "dice6.png";
     }
     
 }
