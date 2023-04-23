@@ -41,22 +41,22 @@ function diceyboi1(number1) {
     
 }
 function diceyboi2(number2) {
-    if (number === 0) {
+    if (number2 === 0) {
         document.getElementsByClassName("img2")[0].src = "dice1.png";
     }
-    else if (number === 1) {
+    else if (number2 === 1) {
         document.getElementsByClassName("img2")[0].src = "dice2.png";
     }
-    else if (number === 2) {
+    else if (number2 === 2) {
         document.getElementsByClassName("img2")[0].src = "dice3.png";
     }
-    else if (number === 3) {
+    else if (number2 === 3) {
         document.getElementsByClassName("img2")[0].src = "dice4.png";
     }
-    else if (number === 4) {
+    else if (number2 === 4) {
         document.getElementsByClassName("img2")[0].src= "dice5.png";
     }
-    else if (number === 5) {
+    else if (number2 === 5) {
         document.getElementsByClassName("img2")[0].src = "dice6.png";
     }
     
